@@ -108,6 +108,7 @@ import Partner2Img from "../images/Partner2.png";
 - Poor tablet experience
 - No fluid scaling
 - Maintenance of two codebases
+- Images are not using any placement strategy, so the images aspect ratio is not preserved - making them look bad on most of the devices
 
 ---
 
