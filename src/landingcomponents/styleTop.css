@@ -230,7 +230,6 @@ div.dropdown-menu:before {
   }
   .slideshowSlider {
     white-space: nowrap;
-    transition: ease 1000ms;
   }
 
   .slideHorse {
